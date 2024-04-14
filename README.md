@@ -16,5 +16,3 @@
 
 
 - 🔭 I’m the co-founder of https://www.neighbourhood.pro
-- 💬 Ask me about TypeScript and Software Architecture
--->
